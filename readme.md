@@ -2,6 +2,14 @@
 
 A modern and responsive Login and Signup Authentication Interface built using HTML, Tailwind CSS, and JavaScript. The project provides a clean and minimal user interface with smooth animations for switching between the Sign In and Sign Up forms.
 
+Animated Login & Signup UI
+
+GitHub Repository - https://github.com/athrav138/Animated-Login-Signup-UI
+
+Live Demo - https://athrav138.github.io/Animated-Login-Signup-UI/
+
+Video Demo - https://youtu.be/ttFlkkf4j3I
+
 ## Description
 
 This project demonstrates how to create an animated authentication page using HTML, Tailwind CSS, and JavaScript. The interface uses CSS transitions and JavaScript class toggling to switch between login and registration forms without reloading the page.
